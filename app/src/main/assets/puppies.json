@@ -1,0 +1,80 @@
+[
+  {
+    "id": 0,
+    "name": "German Shepherd",
+    "description": "The German Shepherd is a breed of medium to large-sized working dog that originated in Germany. According to the FCI, the breed's English language name is German Shepherd Do",
+    "gender": "Male",
+    "imageUrl": "https://dogtime.com/assets/uploads/gallery/german-shepherd-dog-breed-pictures/standing-7.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Bulldog",
+    "description": "The Bulldog, also known as the English Bulldog or British Bulldog, is a medium-sized dog breed. It is a muscular, hefty dog with a wrinkled face and a distinctive pushed-in nose. The Kennel Club, the American Kennel Club, and the United Kennel Club oversee breeding records",
+    "gender": "Male",
+    "imageUrl": "https://media.gettyimages.com/photos/portrait-of-a-english-bulldog-picture-id168620477?s=612x612"
+  },
+
+  {
+    "id": 2,
+    "name": "Poodle",
+    "description": "The Poodle is a dog breed that comes in three varieties: Standard Poodle, Miniature Poodle, and Toy Poodle. The breed’s origin is disputed: whether it descends from Germany as a type of water dog, or from the French Barbet",
+    "gender": "Male",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Full_attention_%288067543690%29.jpg/220px-Full_attention_%288067543690%29.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Labrador Retriever",
+    "description": "The Labrador Retriever, often abbreviated to Labrador, is a breed of retriever-gun dog from the United Kingdom that was developed from imported Canadian fishing dogs. The Labrador is one of the most popular dog breeds in a number of countries in the world, particularly in the Western world",
+    "gender": "Male",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Labrador_on_Quantock_%282175262184%29.jpg/1200px-Labrador_on_Quantock_%282175262184%29.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Golden Retriever",
+    "description": "The Golden Retriever is a medium-large gun dog that was bred to retrieve shot waterfowl, such as ducks and upland game birds, during hunting and shooting parties. The name \"retriever\" refers to the breed's ability to retrieve shot game undamaged due to their soft mouth",
+    "gender": "Female",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Golden_Retriever_Carlos_%2810581910556%29.jpg/1200px-Golden_Retriever_Carlos_%2810581910556%29.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Siberian Husky",
+    "description": "The Siberian Husky is a medium-sized working sled dog breed. The breed belongs to the Spitz genetic family. It is recognizable by its thickly furred double coat, erect triangular ears, and distinctive markings, and is smaller than the similar-looking Alaskan Malamute.",
+    "gender": "Male",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Black-Magic-Big-Boy.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Chihuahua",
+    "description": "The Chihuahua is one of the smallest breeds of dog, and is named after the Mexican state of Chihuahua",
+    "gender": "Male",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Chihuahua1_bvdb.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Dachshund",
+    "description": "The dachshund, also known as the wiener dog, badger dog, or sausage dog, is a short-legged, long-bodied, hound-type dog breed. They may be smooth, wire, or long-haired",
+    "gender": "Male",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Mao-the-dachshund-wikipedia.png"
+  },
+  {
+    "id": 8,
+    "name": "French Bulldog",
+    "description": "The French Bulldog is a breed of domestic dog, bred to be companion dogs. The breed is the result of a cross between Toy Bulldogs imported from England, and local ratters in Paris, France, in the 1800s. They are stocky, compact dogs with a friendly, mild-mannered temperament",
+    "gender": "Male",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Supermillion_Visuals_-_Aston_Fresh_Park_1-02601.jpg/220px-Supermillion_Visuals_-_Aston_Fresh_Park_1-02601.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Great Dane",
+    "description": "The Great Dane, also known as the German Mastiff or Deutsche Dogge, is a breed of dog from Germany. The Great Dane descends from hunting dogs known from the Middle Ages and is one of the largest breeds in the world",
+    "gender": "Male",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Dog_niemiecki_%C5%BC%C3%B3%C5%82ty_LM980.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Rottweiler",
+    "description": "The Rottweiler is a breed of domestic dog, regarded as medium-to-large or large. The dogs were known in German as Rottweiler Metzgerhund, meaning Rottweil butchers' dogs, because their main use was to herd livestock and pull carts laden with butchered meat to market",
+    "gender": "Male",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Rottweiler_standing_facing_left.jpg"
+  }
+]
